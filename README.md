@@ -1,6 +1,6 @@
 # Tekky Certificados
 
-![Tekky Certificados Logo](https://certificados.tekky.com.br/assets/logo.svg)
+![Tekky Certificados Logo](https://certificados.tekky.com.br/logo.svg)
 
 > **O Gerenciador Definitivo de Certificados Digitais para Windows.**
 
