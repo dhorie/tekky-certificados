@@ -68,4 +68,4 @@ Encontrou um bug ou tem uma sugestão de funcionalidade?
 
 ---
 
-&copy; 2025 HDev Solutions. Todos os direitos reservados.
+&copy; 2025 Tekky Solutions. Todos os direitos reservados.
